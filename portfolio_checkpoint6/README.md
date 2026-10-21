@@ -1,24 +1,43 @@
 # Checkpoint 6 — Vibecoding
-Portfólio pessoal de Paulo Henrique, criado com HTML, CSS e JavaScript.
+
+Portfólio pessoal desenvolvido por Paulo Henrique Angueira para a disciplina de Front-end da FIAP, no curso de Engenharia de Software.
+
+## Sobre o projeto
+
+O objetivo deste trabalho foi desenvolver um portfólio pessoal utilizando inteligência artificial como apoio durante o processo de criação.
+
+O site apresenta minhas informações profissionais, habilidades, projetos acadêmicos e formas de contato.
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Funcionalidades
+
+- Layout responsivo para computadores e celulares
+- Menu de navegação entre as seções
+- Animações e efeitos visuais
+- Apresentação de habilidades e projetos
+- Links para contato e redes profissionais
 
 ## Como executar
-Abra `index.html` no navegador, ou use Live Server no VS Code.
 
-## Antes de publicar
-No arquivo `index.html`, substitua `SEU_EMAIL_AQUI` e os endereços genéricos do GitHub e LinkedIn por seus links reais.
+1. Baixe os arquivos do repositório.
+2. Abra a pasta do projeto no VS Code.
+3. Execute o arquivo `index.html` no navegador ou utilize a extensão Live Server.
 
-## Publicação
-1. Crie um repositório no GitHub e envie os arquivos desta pasta.
-2. No repositório, vá a Settings > Pages > Build and deployment e selecione Deploy from a branch, `main`, `/ (root)`.
-3. Aguarde a publicação e copie a URL do site.
+## Desenvolvimento
 
-## Tecnologias
-HTML semântico, CSS responsivo e JavaScript para navegação mobile.
+Durante o desenvolvimento, utilizei IA generativa para auxiliar na criação da estrutura, estilização e implementação de funcionalidades.
 
-## Contatos
+O processo envolveu a definição da identidade visual, elaboração de prompts, ajustes no layout e revisão do resultado.
+
+## Contato
+
+**Paulo Henrique Angueira**
 
 - GitHub: https://github.com/PhAngueira
 - LinkedIn: https://www.linkedin.com/in/paulo-henrique-angueira-224436245
 - E-mail: ph.angueira@hotmail.com
-
-Para entrega do checkpoint, publique este projeto em um repositorio proprio e ative o GitHub Pages.
